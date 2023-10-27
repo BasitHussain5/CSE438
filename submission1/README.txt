@@ -8,6 +8,7 @@ Paper title:
 Early Detection of Brain Tumor in MRI Images using Open by Reconstruction and Convolution Neural Networks
 
 Link to the paper:
+https://ieeexplore.ieee.org/abstract/document/10157830
 
 
 Group Number:
