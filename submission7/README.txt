@@ -1,16 +1,18 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/read/jkzpgsnjkkmy#8bc50d
+https://www.overleaf.com/4459264722cckwhbhwvbpk#f81e38
 
 Link to unlisted YouTube video:
 https://www.youtube.com/watch?v=dGGssCJqgRk
 
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1Fg8hwULrd8U5TYQPfhKRUe9du1Et11T8/edit?usp=sharing&ouid=114759371798660435435&rtpof=true&sd=true
+
 
 
 Project title:
-BERT-Based Emotion Recognition: A Comprehensive Study in Dari Texts with Explainable AI
+Towards Accurate Diagnoses: An In-Depth Analysis
+of Brain Tumor Classification via Machine Learning
+and Deep Learning
 
 Group Number:
 2
